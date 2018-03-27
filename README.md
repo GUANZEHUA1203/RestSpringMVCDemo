@@ -14,4 +14,3 @@ RestSpringMVCDemo项目是一个基于Spring的符合REST风格的项目，具�
  
  - 安全(鉴权)机制。
  
- 关于REST服务概念、框架和实战的全面介绍，请移步我的博客《REST风格框架实战：从MVC到前后端分离(附完整Demo)》，博客地址：http://blog.csdn.net/justloveyou_/article/details/74379479
